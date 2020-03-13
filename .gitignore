@@ -1,4 +1,5 @@
 ngrok
+.env
 .pylintrc
 .vscode/
 .venv/
